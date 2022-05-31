@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\SQLEXPRESS:SA">
+          <Created>2022-04-28T16:09:41.7264945-06:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\SQLEXPRESS</Server>
+          <UserName>SA</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>MiBase</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CREATE_TABLE_ventas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>CREATE_TABLE_ventas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DELETE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>INSERT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INS_Producto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_INS_Producto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INS_Venta.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_INS_Venta.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_SEL_Producto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_SEL_Producto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_SEL_Ventas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_SEL_Ventas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_SEL_VentasTotales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_SEL_VentasTotales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_UPD_Venta.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>SP_UPD_Venta.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>UPDATE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
